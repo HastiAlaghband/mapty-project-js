@@ -1,3 +1,6 @@
 script copy.js
 Mapty-flowchart.png
 notes.js
+dist 
+parcel-cache
+node-modules
