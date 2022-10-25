@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Workout logging application ",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "start": "npm run start",
+    "build": "npm run build"
   },
   "author": "Hasti Alaghband",
   "license": "ISC",
